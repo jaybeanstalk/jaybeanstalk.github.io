@@ -22,6 +22,7 @@ title: The Union Free Press
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
 "Hello! I am Glaciosia, presently a senator in our legislature and a committed citizen of this Union. I am founding this paper as a way to serve the people of this region with our high quality, timely journalism on regional events.  I can not claim to be unbiased, but I will strive to be as transparent as possible.  This paper will publish news, op-eds, and letters to the editor; and conduct polls , interviews and debates."
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://unionfreepress.ga/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
