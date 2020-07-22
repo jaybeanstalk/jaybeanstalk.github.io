@@ -26,7 +26,7 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://unionfreepress.ga/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username:  jaybeanstalk
+github_username:  
 
 # Build settings
 theme: minima
