@@ -23,7 +23,7 @@ email: glaciosia@unionfreepress.ga
 description: >-
     The Premier News Source of the Union
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://unionfreepress.ga/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://unionfreepress.ga/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
 
