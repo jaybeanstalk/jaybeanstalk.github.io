@@ -5,7 +5,7 @@ date: 2020-11-11 13:52
 author:
 - Glaciosia
 - Isles
-tags: []
+tags: issue
 summary: 
 ---
 ## Druing wins Presidency
