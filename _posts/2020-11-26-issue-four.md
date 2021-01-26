@@ -11,10 +11,10 @@ summary: Glaciosia argues against the amendment of the General Assembly, Isles i
 ---
 ## General Assembly Amendment is dangerous and reckless
 **Opinion |** Glaciosia
+
 This amendment, which was proposed for the second time to the Senate recently, is intended to make the General Assembly into a body that has a fixed set of members and requires people to actively apply to participate. However, the amendment has serious issues in drafting and would remove, for a whole Senate term, someone who misses the voting period of 4 bills, making no distinction if they were on a leave of absence, and cause further problems for our general assembly. The Senate should defeat this rushed, flawed and incomplete amendment and reintroduce one drafted properly.
 ## Interview with the Minister of Justice and Attorney General Guess and Check (Zukchiva)
-
-**News |** Isles
+**News |**  Isles
 
 *Firstly, can you describe your ministry for the readers?*  
 The Ministry of Justice is responsible for maintaining an attorney system for the Union. The Ministry is also supposed to educate the general citizenry about Union law. That’s the extent of its duties.
