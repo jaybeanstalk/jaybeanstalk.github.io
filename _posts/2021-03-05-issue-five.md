@@ -52,7 +52,7 @@ Kanglia, a long-term citizen and current Senate candidate has announced that the
 
 ## Interview with Former President Druing
 
-**News |** Isles
+**News  |** Isles
 
 *Isles interviewed the former President Druing on his time in office*
 
