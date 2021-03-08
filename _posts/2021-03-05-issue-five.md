@@ -51,7 +51,6 @@ Khevo, a Chancellor and Associate Justice in the UDS has announced their new new
 Kanglia, a long-term citizen and current Senate candidate has announced that their paper, *Kanglia's Corner* will be holding a radio segment called "Kanglia's Questions", somewhat mirroring the PMQs of Westminster democracies. The first episode will air live at approximately 5 Central this Tuesday. Readers who wish to learn more or attend should join the UDS discord and read the #kanglias-corner channel.
 
 ## Interview with Former President Druing
-
 **News  |** Isles
 
 *Isles interviewed the former President Druing on his time in office*
