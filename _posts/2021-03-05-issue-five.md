@@ -13,11 +13,12 @@ summary: Nuevo San Miguel elected in upset election,Druing is interviewed, vario
 ---
 ## Nuevo San Miguel Elected President
 
-Former Minister of Culture Nuevo San Miguel was elected in an upset on the second of March, getting five more votes than his closest competitor, former President and expected winner Phoenix
+Former Minister of Culture Nuevo San Miguel was elected in an upset on the second of March, getting five more votes than his closest competitor, former President and expected winner Phoenix:
 
     + Nuevo San Miguel: 15 (56%)
     - Phoenix Coalition: 10 (37%)
     - Re-Open Nominations: 2 (7%)
+  
 NSM, along with his Vice President Zeneste have nominated, and the Senate confirmed, the following Ministers:
 
 * Sacento as Minister of the Census
