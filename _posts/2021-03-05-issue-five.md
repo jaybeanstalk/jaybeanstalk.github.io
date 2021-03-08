@@ -53,7 +53,9 @@ Kanglia, a long-term citizen and current Senate candidate has announced that the
 ## Interview with Former President Druing
 
 **News |** Isles
+
 *Isles interviewed the former President Druing on his time in office*
+
 *1. Now that you are a regular citizen of the Union, how does not being the President feel?*
 
 I want my red name back.
@@ -68,7 +70,7 @@ Aside from the Delegacy Act (increased autonomy of the WA Delegate by loosening/
 
 *4. What has been your momentous achievement, your crowning glory as President?*
 
-Joining the PfS - It’s the first time to my knowledge that the Union has ever entered membership into a WA voting bloc, which gains its position on the international stage as well as sets uncharted ground for the region to step. 
+Joining the PfS - It’s the first time to my knowledge that the Union has ever entered membership into a WA voting bloc, which gains its position on the international stage as well as sets uncharted ground for the region to step.
 
 *5. You are a one term president, you had the opportunity to continue for another term. Why did you decide not to run for reelection?*
 
@@ -106,6 +108,6 @@ You mean three. Go RON!
 
 *12. As you return to being a normal citizen, what are your plans for the future? You had a successful stint as senator, minister and now as president. That is a wealth of experience. How will you channel that in the days that follow?*
 
-I’m planning on sitting back and staying a citizen for the time being to focus on my other enterprises. I would like to remain a part of the World Assembly Advisory Board, as well as the delegation to the PfS until such a time that Asdersland sees fit to remove me, for whatever reason they may deem necessary. 
+I’m planning on sitting back and staying a citizen for the time being to focus on my other enterprises. I would like to remain a part of the World Assembly Advisory Board, as well as the delegation to the PfS until such a time that Asdersland sees fit to remove me, for whatever reason they may deem necessary.
 
 My time with the PfS so far has been comfortable and thought-provoking. Additionally, just before as well as during my Presidency, I had been conversing with another region official about a potential opportunity. It hasn’t produced anything yet, but in the event that it does, I will try to see if I can make sure that it pays off. But I’ll refuse any other nominations for the time being. In time, I may run for President again or accept a VP nomination, but I don’t see it happening soon.
